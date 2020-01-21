@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="wheyCan" version="3.0" targetId="08cefea6cf2746508087494eafbdd7f7" sideLength="0.215000" topDiameter="0.135000" bottomDiameter="0.140000" sideImage="wheyCan.Body_scaled.jpg" topImage="wheyCan.Top_scaled.jpg" bottomImage="wheyCan.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

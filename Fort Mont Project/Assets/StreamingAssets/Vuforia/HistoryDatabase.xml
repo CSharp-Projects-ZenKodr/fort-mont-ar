@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Advantages" size="2.100000 1.045312" />
+    <ImageTarget name="BatteryEdwards" size="2.100000 1.016066" />
+    <ImageTarget name="WalkingTour" size="0.500000 0.361943" />
+    <ImageTarget name="WalkingSign" size="0.300000 0.287326" />
+    <ImageTarget name="TheWharf" size="2.000000 1.062404" />
+    <ImageTarget name="ShellRoom" size="1.500000 1.514385" />
+    <ImageTarget name="RenstromGrave" size="1.500000 2.036285" />
+    <ImageTarget name="PowderMagazine" size="1.500000 1.509921" />
+    <ImageTarget name="PeaPatchIsland" size="2.000000 1.026000" />
+    <ImageTarget name="ObservTowers" size="1.500000 0.930755" />
+    <ImageTarget name="MeansOfCommunication" size="1.500000 1.634552" />
+    <ImageTarget name="LookingPrice" size="0.200000 0.244524" />
+    <ImageTarget name="LoadingAndFiring" size="1.500000 1.422477" />
+    <ImageTarget name="GunPlatFeat" size="1.500000 1.425452" />
+    <ImageTarget name="FortMottInfo" size="2.100000 1.001434" />
+    <ImageTarget name="FinnsPointSign" size="1.400000 0.946787" />
+    <ImageTarget name="FinnsPointCem" size="1.500000 0.932731" />
+    <ImageTarget name="FerryService" size="0.300000 0.463659" />
+    <ImageTarget name="ConfederateBurials" size="1.500000 1.013151" />
+    <ImageTarget name="BatteryKreyenbruhl" size="1.500000 1.113068" />
+    <ImageTarget name="BatteryCmd" size="1.500000 1.573361" />
+    <ImageTarget name="BatteryArnold" size="2.200000 1.116789" />
+    <ImageTarget name="10inGunSpecfic" size="1.500000 1.498243" />
+    <ImageTarget name="CoastalTrail2" size="1.500000 1.822314" />
+    <ImageTarget name="CoastalTrail" size="1.500000 1.789614" />
+  </Tracking>
+</QCARConfig>

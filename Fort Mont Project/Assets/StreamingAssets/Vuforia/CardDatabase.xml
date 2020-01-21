@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="wheyCan" sideLength="0.215000"/>
+        <ImageTarget name="fruitValley" size="0.087000 0.050281"/>
+        <ImageTarget name="turok" size="0.057000 0.064900"/>
+        <ImageTarget name="businessCard" size="0.089000 0.051764"/>
+        <ImageTarget name="targetCard" size="0.060000 0.083684"/>
+        <ImageTarget name="yellowDie.Left" size="0.060000 0.060000"/>
+        <ImageTarget name="yellowDie.Right" size="0.060000 0.060000"/>
+        <ImageTarget name="yellowDie.Front" size="0.060000 0.060000"/>
+        <ImageTarget name="yellowDie.Back" size="0.060000 0.060000"/>
+        <ImageTarget name="yellowDie.Top" size="0.060000 0.060000"/>
+        <ImageTarget name="yellowDie.Bottom" size="0.060000 0.060000"/>
+        <MultiTarget name="yellowDie">
+            <Part name="yellowDie.Left" translation="-0.029999999329447746 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="yellowDie.Right" translation="0.029999999329447746 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="yellowDie.Front" translation="0 0 0.029999999329447746" rotation="AD: 1 0 0 0"/>
+            <Part name="yellowDie.Back" translation="0 0 -0.029999999329447746" rotation="AD: 0 1 0 180"/>
+            <Part name="yellowDie.Top" translation="0 0.029999999329447746 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="yellowDie.Bottom" translation="0 -0.029999999329447746 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
